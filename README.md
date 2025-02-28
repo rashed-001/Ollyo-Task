@@ -3,6 +3,10 @@ This is for solving the task of Ollyo given in PHP Dev position as day long asse
 
 # PHP Shopping Cart Checkout System
 
+## Note:
+## For vendor files, as this would be auto created after compose install,
+## for my case, I am uploading my vendor file into my drive, if you want to use the exact one, then download it and use
+Link: https://drive.google.com/drive/folders/15D8Dn4rpABJpGE2H4i6LKZb2X777WDzS?usp=drive_link
 ## Overview
 This project implements a simple checkout system with Stripe payment gateway integration using vanilla PHP (no frameworks). The system processes a predefined cart of products through Stripe checkout.
 
