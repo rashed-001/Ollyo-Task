@@ -16,9 +16,7 @@ This project implements a simple checkout system with Stripe payment gateway int
 
 1. **Clone the Repository**
    ```bash
-   git clone git@github.com:yourusername/your-repo.git
-   cd your-repo
-
+   git clone https://github.com/rashed-001/Ollyo-Task.git
    2. Install Dependencies Make sure you have Composer installed. Then run: composer install
 
    3. Set Up Configuration Create a config.php file in the root directory and add your Stripe API keys:
@@ -47,7 +45,7 @@ Start the Server Use a local server to run your PHP application. You can use the
 bash
 
 php -S localhost:5000
-
+I use this localhost, can varries 
 Access the Application Open your web browser and navigate to:
 http://localhost:5000
 Checkout Process
